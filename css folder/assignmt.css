@@ -244,6 +244,10 @@ header button:hover{
   
   color: #6b7280;
 }
+.footer-links a:hover {
+  color:brown;
+  background-color: antiquewhite;
+}
 
 .footer-title h2  {
   
@@ -273,8 +277,5 @@ header button:hover{
   transition: color 0.2s ease;
 }
 
-.footer-links a:hover {
-  color:brown;
-  background-color: antiquewhite;
-}
+
 
