@@ -270,7 +270,7 @@ header button:hover{
 .footer-links a {
   color: #6b7280;
   text-decoration: none;
-  transition: color 0.3s ease;
+  transition: color 0.2s ease;
 }
 
 .footer-links a:hover {
